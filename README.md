@@ -51,7 +51,7 @@ For over a year I've been deep in open source. Reading source code. Appreciating
 |---|---|---|
 | **PeerLink** | Serverless encrypted P2P file transfer | ECDH key exchange + AES-256-GCM, zero servers, Java |
 | **CrimeGuard** | Crime hotspot prediction & patrol routing | BFS clustering + greedy assignment, full-stack |
-| **VoiceAuth** | Real vs AI-generated voice detector | CNN on mel spectrograms + 15-heuristic rule engine |
+
 
 ---
 
