@@ -30,14 +30,31 @@ For over a year I've been deep in open source. Reading source code. Appreciating
 
 <div align="center">
 
+### Languages  
 ![Python](https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=3b82f6)
-![Java](https://img.shields.io/badge/Java-0d1b2a?style=for-the-badge&logo=openjdk&logoColor=3b82f6)
 ![C++](https://img.shields.io/badge/C++-0d1b2a?style=for-the-badge&logo=cplusplus&logoColor=3b82f6)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1b2a?style=for-the-badge&logo=kotlin&logoColor=3b82f6)
-![Bash](https://img.shields.io/badge/Bash-0d1b2a?style=for-the-badge&logo=gnubash&logoColor=3b82f6)
-![Linux](https://img.shields.io/badge/Fedora_COSMIC-0d1b2a?style=for-the-badge&logo=fedora&logoColor=3b82f6)
+
+<br/>
+
+### Frameworks  
 ![Flask](https://img.shields.io/badge/Flask-0d1b2a?style=for-the-badge&logo=flask&logoColor=3b82f6)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1b2a?style=for-the-badge&logo=fastapi&logoColor=3b82f6)
+
+<br/>
+
+### Version Control  
 ![Git](https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=3b82f6)
+![GitHub](https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=3b82f6)
+
+<br/>
+
+### Tools  
+![VS Code](https://img.shields.io/badge/VS_Code-0d1b2a?style=for-the-badge&logo=visualstudiocode&logoColor=3b82f6)
+
+<br/>
+
+### Mostly Using  
+![Bash](https://img.shields.io/badge/Bash-0d1b2a?style=for-the-badge&logo=gnubash&logoColor=3b82f6)
 
 </div>
 
@@ -51,7 +68,6 @@ For over a year I've been deep in open source. Reading source code. Appreciating
 |---|---|---|
 | **PeerLink** | Serverless encrypted P2P file transfer | ECDH key exchange + AES-256-GCM, zero servers, Java |
 | **CrimeGuard** | Crime hotspot prediction & patrol routing | BFS clustering + greedy assignment, full-stack |
-
 
 ---
 
@@ -77,18 +93,26 @@ For over a year I've been deep in open source. Reading source code. Appreciating
 
 <div align="center">
 
-```
-╔══════════════════════════════════════╗
-║  ✦  Internships                      ║
-║  ✦  Hackathon Teams                  ║
-║  ✦  Open Source Collaborations       ║
-╚══════════════════════════════════════╝
-```
+
 
 </div>
 
-Building something interesting? Want to talk tech, Linux, or open source?  
-**Reach out — I'm always down.**
+---
+
+## `$ socials --connect`
+
+<div align="center">
+
+<!-- Add your LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=3b82f6)](YOUR_LINK_HERE)
+
+<!-- Add your Portfolio -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=firefox&logoColor=3b82f6)](YOUR_LINK_HERE)
+
+<!-- Add your Resume -->
+[![Resume](https://img.shields.io/badge/Resume-0d1b2a?style=for-the-badge&logo=readthedocs&logoColor=3b82f6)](YOUR_LINK_HERE)
+
+</div>
 
 ---
 
