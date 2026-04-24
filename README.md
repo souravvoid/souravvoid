@@ -18,7 +18,7 @@ I'm a CSE student at **Graphic Era Hill University** who got genuinely obsessed 
 
 For over a year I've been deep in open source. Reading source code. Appreciating decisions other developers made. Trying to think the same way when I build. That mindset shapes everything I do.
 
-- 🔭 First year — applied to a team in Hyderabad. Didn't get in. Learned more from that than most things.
+- 🔭 First year — applied to a team but . Didn't get in. Learned more from that than most things.
 - ⚡ Second year — co-organised a hackathon at GEHU. Handled the full thing: planning, team prep, logistics, running it.
 - 🐧 Daily driver: **Fedora Linux + COSMIC Desktop** — my environment is intentional.
 - 🤝 Member of **Co-Dev Club** — workshops, demos, building dev culture on campus.
@@ -70,58 +70,3 @@ For over a year I've been deep in open source. Reading source code. Appreciating
 | **CrimeGuard** | Crime hotspot prediction & patrol routing | BFS clustering + greedy assignment, full-stack |
 
 ---
-
-## `$ github --stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=souravoid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=3b82f6&icon_color=60a5fa&text_color=e2e8f0&ring_color=3b82f6" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravoid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=3b82f6&text_color=e2e8f0" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=souravoid&theme=tokyonight&hide_border=true&background=0d1b2a&ring=3b82f6&fire=60a5fa&currStreakLabel=3b82f6&sideLabels=e2e8f0&dates=93c5fd&currStreakNum=e2e8f0&sideNums=e2e8f0" />
-
-</div>
-
----
-
-## `$ echo $OPEN_TO`
-
-<div align="center">
-
-
-
-</div>
-
----
-
-## `$ socials --connect`
-
-<div align="center">
-
-<!-- Add your LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=3b82f6)](YOUR_LINK_HERE)
-
-<!-- Add your Portfolio -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=firefox&logoColor=3b82f6)](YOUR_LINK_HERE)
-
-<!-- Add your Resume -->
-[![Resume](https://img.shields.io/badge/Resume-0d1b2a?style=for-the-badge&logo=readthedocs&logoColor=3b82f6)](YOUR_LINK_HERE)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1b3a6b,100:0d1b2a&height=120&section=footer&text=appreciate%20what%20was%20built.%20build%20what%20will%20be%20appreciated.&fontSize=13&fontColor=93c5fd&fontAlignY=65" />
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=souravoid&color=3b82f6&style=flat&label=profile+views)
-
-</div>
