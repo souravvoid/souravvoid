@@ -20,8 +20,8 @@ For over a year I've been deep in open source. Reading source code. Appreciating
 
 - 🔭 First year — applied to a team but . Didn't get in. Learned more from that than most things.
 - ⚡ Second year — co-organised a hackathon at GEHU. Handled the full thing: planning, team prep, logistics, running it.
-- 🐧 Daily driver: **Fedora Linux + COSMIC Desktop** — my environment is intentional.
-- 🤝 Member of **Co-Dev Club** — workshops, demos, building dev culture on campus.
+- 🐧 Daily driver: **Fedora Linux + kde Desktop** — my environment is intentional.
+
 - 💡 Currently: going deeper into systems, security, and open source contribution.
 
 ---
