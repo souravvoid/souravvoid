@@ -18,9 +18,7 @@ I'm a CSE student at **Graphic Era Hill University** who got genuinely obsessed 
 
 For over a year I've been deep in open source. Reading source code. Appreciating decisions other developers made. Trying to think the same way when I build. That mindset shapes everything I do.
 
-- 🔭 First year — applied to a team but . Didn't get in. Learned more from that than most things.
-- ⚡ Second year — co-organised a hackathon at GEHU. Handled the full thing: planning, team prep, logistics, running it.
-- 🐧 Daily driver: **Fedora Linux + kde Desktop** — my environment is intentional.
+- 🐧 Daily driver: **Fedora Workstation Desktop** — my environment is intentional.
 
 - 💡 Currently: going deeper into systems, security, and open source contribution.
 
